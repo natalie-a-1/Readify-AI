@@ -13,8 +13,8 @@
   "main": "./extension.js",
   "contributes": {
     "commands": [{
-      "command": "readify.helloWorld",
-      "title": "Hello World"
+      "command": "readify.Readify",
+      "title": "Generate ReadMe file"
     }]
   },
   "scripts": {
